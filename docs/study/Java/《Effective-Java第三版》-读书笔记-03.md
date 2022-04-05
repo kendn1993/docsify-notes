@@ -1116,7 +1116,7 @@
   package throwable;
   
   /**
-   * @author : Ashiamd email: ashiamd@foxmail.com
+   * @author : kendn1993 email: kendn1993@foxmail.com
    * @date : 2021/11/14 10:53 PM
    */
   public class ExceptionChainingTest {

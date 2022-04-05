@@ -1880,11 +1880,11 @@ public class SwaggerConfig {
     private ApiInfo apiInfo(){
 
         // 作者信息
-        Contact contact = new Contact("ashiamd", "https://ashiamd.github.io/docsify-notes/#/README", "UK70em__817rIWlLX2@163.com");
+        Contact contact = new Contact("kendn1993", "https://kendn1993.github.io/docsify-notes/#/README", "UK70em__817rIWlLX2@163.com");
 
-        return new ApiInfo("Ashiamd的API文档",
+        return new ApiInfo("kendn1993的API文档",
                 "ずっと真夜中でいいのに。",
-                "1.0", "https://ashiamd.github.io/docsify-notes/#/README",
+                "1.0", "https://kendn1993.github.io/docsify-notes/#/README",
                 contact,
                 "Apache 2.0",
                 "http://www.apache.org/licenses/LICENSE-2.0",
@@ -1957,11 +1957,11 @@ public class SwaggerConfig {
     private ApiInfo apiInfo(){
 
         // 作者信息
-        Contact contact = new Contact("ashiamd", "https://ashiamd.github.io/docsify-notes/#/README", "UK70em__817rIWlLX2@163.com");
+        Contact contact = new Contact("kendn1993", "https://kendn1993.github.io/docsify-notes/#/README", "UK70em__817rIWlLX2@163.com");
 
-        return new ApiInfo("Ashiamd的API文档",
+        return new ApiInfo("kendn1993的API文档",
                            "ずっと真夜中でいいのに。",
-                           "1.0", "https://ashiamd.github.io/docsify-notes/#/README",
+                           "1.0", "https://kendn1993.github.io/docsify-notes/#/README",
                            contact,
                            "Apache 2.0",
                            "http://www.apache.org/licenses/LICENSE-2.0",
@@ -1975,7 +1975,7 @@ public class SwaggerConfig {
 配置API文档的分组
 
 ```java
-.groupName("ashiamd-group")
+.groupName("kendn1993-group")
 ```
 
 如何配置多个分组：配置多个Docket实例即可

@@ -134,7 +134,7 @@
        <Connector port="8443" protocol="org.apache.coyote.http11.Http11AprProtocol"
                   maxThreads="150" SSLEnabled="true" 
                   scheme="https" secure="true" clientAuth="false" sslProtocol="TLS"
-                  keystoreFile="/Users/ashiamd/mydocs/docs/study/ITstudy/SSO/CAS/cas-test/keystore/ashiamd.keystore"
+                  keystoreFile="/Users/kendn1993/mydocs/docs/study/ITstudy/SSO/CAS/cas-test/keystore/kendn1993.keystore"
                   keystorePass="keystore文件的密码" />
    ```
 
@@ -143,11 +143,11 @@
    ```shell
    $ bin/startup.sh
    
-   Using CATALINA_BASE:   /Users/ashiamd/mydocs/dev-tools/tomcat/apache-tomcat-10.0.10
-   Using CATALINA_HOME:   /Users/ashiamd/mydocs/dev-tools/tomcat/apache-tomcat-10.0.10
-   Using CATALINA_TMPDIR: /Users/ashiamd/mydocs/dev-tools/tomcat/apache-tomcat-10.0.10/temp
+   Using CATALINA_BASE:   /Users/kendn1993/mydocs/dev-tools/tomcat/apache-tomcat-10.0.10
+   Using CATALINA_HOME:   /Users/kendn1993/mydocs/dev-tools/tomcat/apache-tomcat-10.0.10
+   Using CATALINA_TMPDIR: /Users/kendn1993/mydocs/dev-tools/tomcat/apache-tomcat-10.0.10/temp
    Using JRE_HOME:        /Library/Java/JavaVirtualMachines/adoptopenjdk-11-openj9.jdk/Contents/Home
-   Using CLASSPATH:       /Users/ashiamd/mydocs/dev-tools/tomcat/apache-tomcat-10.0.10/bin/bootstrap.jar:/Users/ashiamd/mydocs/dev-tools/tomcat/apache-tomcat-10.0.10/bin/tomcat-juli.jar
+   Using CLASSPATH:       /Users/kendn1993/mydocs/dev-tools/tomcat/apache-tomcat-10.0.10/bin/bootstrap.jar:/Users/kendn1993/mydocs/dev-tools/tomcat/apache-tomcat-10.0.10/bin/tomcat-juli.jar
    Using CATALINA_OPTS:   
    Tomcat started.
    ```
