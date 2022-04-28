@@ -1752,7 +1752,6 @@ and Flink falls back to Kryo for other types. It is also possible to use other s
 
 Flink’s native serializer can operate efficiently on tuples and POJOs.
 
-
 ## flink 新特性
 
 整理了一下Flink1.13关于故障转移、SQL以及监控和调试的新特性，个人能力有限，如果发现错误希望各位彦祖们能够及时指出，另外也欢迎大家积极补充（另外第一次接触Flink的小可爱们可以暂时忽略这条信息，等把武老师的视频学习完再瞅瞅也不迟）：
